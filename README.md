@@ -1,2 +1,2 @@
-# rtc-transform-framework
+# Rtc-transform-framework
 Representación Transformacional Compacta (RTC): marco de compresión y codificación simbólica.
