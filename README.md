@@ -1,4 +1,4 @@
-# RTC - Representación Transformacional Compacta
+# RTC - Representación Transformacional Condensada
 
 **Autor:** Eugenio Falabella  
 **Versión:** 1.0  
