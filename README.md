@@ -50,6 +50,10 @@ Se evalúa el marco RTC sobre datasets estructurados y aleatorios comparando con
 
 ---
 
+>El sistema glífico se presenta en forma preliminar, como una propuesta de codificación simbólica aún no formalizada completamente.
+
+---
+
 ## 📜 Licencia
 
 Este trabajo está protegido por derecho de autor.  
