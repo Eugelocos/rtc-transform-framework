@@ -16,6 +16,7 @@ La Representación Transformacional Compacta (RTC) es un marco teórico y algor�
 
 - Los datos se representan como **transformaciones mínimas** aplicadas a un conjunto reducido de **estados base**.
 - Cada transformación (τᵢ) actúa como una especie de **"glifo" funcional** que reconstruye el dato a partir del estado base.
+  >El sistema glífico se presenta en forma preliminar, como una propuesta de codificación simbólica aún no formalizada completamente.
 - El sistema puede usarse tanto para **compresión eficiente** como para **codificación semántica** o **esteganografía estructural**.
 
 ---
@@ -47,10 +48,6 @@ Se evalúa el marco RTC sobre datasets estructurados y aleatorios comparando con
 - CDNs con activación selectiva de datos
 - IA simbólica con codificación glífica
 - Esteganografía estructural o plantado de datos
-
----
-
->El sistema glífico se presenta en forma preliminar, como una propuesta de codificación simbólica aún no formalizada completamente.
 
 ---
 
